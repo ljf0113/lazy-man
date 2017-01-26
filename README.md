@@ -1,8 +1,8 @@
 # lazy-man
-A lazy man is based on es6.\n
-微信面试题，需要做到以下实现：\n
+A lazy man is based on es6.
+微信面试题，需要做到以下实现：
 
-LazyMan(“Hank”)\n
+LazyMan(“Hank”)
 //Hi! This is Hank!
 
 LazyMan(“Hank”).sleep(10).eat(“dinner”)
